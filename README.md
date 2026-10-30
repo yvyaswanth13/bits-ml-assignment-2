@@ -1,4 +1,3 @@
-# M.Tech (AIML) Machine Learning - Assignment 2
 
 ## a. Problem Statement
 The objective of this project is to develop and evaluate an end-to-end predictive framework to classify financial credit risk profile ratings. Using data detailing demographic attributes, transactional relationships, and banking histories, the system implements 5 distinct classification models to accurately distinguish high-risk credit applicants from low-risk individuals.
