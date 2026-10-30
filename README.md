@@ -11,7 +11,7 @@ The objective of this project is to develop and evaluate an end-to-end predictiv
 * **Target Label:** Binary classification (`0` = Negative / Good Credit Risk, `1` = Positive / Bad Credit Risk)
 
 ## c. GitHub Repository Link
-* **Repository Link:** [INSERT YOUR GITHUB URL HERE]
+* **Repository Link:** https://github.com/yvyaswanth13/bits-ml-assignment-2/
 * **Live Streamlit App:** https://bits-ml.streamlit.app/
 
 ## d. Models Used & Performance Evaluation
