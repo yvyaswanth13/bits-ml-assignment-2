@@ -12,7 +12,7 @@ The objective of this project is to develop and evaluate an end-to-end predictiv
 
 ## c. GitHub Repository Link
 * **Repository Link:** [INSERT YOUR GITHUB URL HERE]
-* **Live Streamlit App:** [INSERT YOUR STREAMLIT APP URL HERE]
+* **Live Streamlit App:** https://bits-ml.streamlit.app/
 
 ## d. Models Used & Performance Evaluation
 
